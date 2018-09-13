@@ -1,12 +1,8 @@
 # @Time    : 2018/9/1 下午3:20
 # @Author  : 郑超
 # @Desc    : 安居客杭州租房信息
-import csv
 import json
-import random
-import re
-import requests
-import lxml.html
+import random, re, requests, lxml.html, csv
 
 etree = lxml.html.etree
 url_list = []
