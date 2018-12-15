@@ -1,7 +1,6 @@
 # @Time    : 2018/9/25 下午1:51
 # @Author  : 郑超
-# @Desc    :
-
+# @Desc    : 保存文本信息
 import requests
 
 # 图片地址
