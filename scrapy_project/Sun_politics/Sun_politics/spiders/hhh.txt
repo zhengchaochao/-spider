@@ -1,0 +1,961 @@
+{
+  "title": "噪音，噪音，噪音",
+  "href": "http://wz.sun0769.com/html/question/201812/397189.shtml",
+  "number": "204761",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:56:14",
+  "involved_department": "zhu1985",
+  "content": "东城"
+}{
+  "title": "大朗中学高三行政言而无信，不遵守规则。",
+  "href": "http://wz.sun0769.com/html/question/201812/397186.shtml",
+  "number": "204759",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:48:54",
+  "involved_department": "clcl508",
+  "content": "大朗"
+}{
+  "title": "广东万恒通家居制品有限公司喷漆未经处理直接排放",
+  "href": "http://wz.sun0769.com/html/question/201812/397165.shtml",
+  "number": "204758",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:47:35",
+  "involved_department": "ui999ui",
+  "content": "市环保局"
+}{
+  "title": "万江第三中学只对优生铺导，差生弃之不理",
+  "href": "http://wz.sun0769.com/html/question/201812/397164.shtml",
+  "number": "204757",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:46:52",
+  "involved_department": "梦＠尘",
+  "content": "万江"
+}{
+  "title": "大岭山镇大塘朗村委会不作为",
+  "href": "http://wz.sun0769.com/html/question/201812/397163.shtml",
+  "number": "204756",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:45:00",
+  "involved_department": "aaa6633",
+  "content": "大岭山"
+}{
+  "title": "关于12月19日晚上在乘坐东莞市区10路车发生的事情 水濂山..",
+  "href": "http://wz.sun0769.com/html/question/201812/397183.shtml",
+  "number": "204754",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:42:43",
+  "involved_department": "静静静lau",
+  "content": "市交通局"
+}{
+  "title": "东莞市厚街镇康乐南路乱停乱放现象严重",
+  "href": "http://wz.sun0769.com/html/question/201812/397181.shtml",
+  "number": "204753",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:41:29",
+  "involved_department": "ray9889",
+  "content": "厚街"
+}{
+  "title": "大朗十五路公交司机，责任感低，素质差！！！",
+  "href": "http://wz.sun0769.com/html/question/201812/397180.shtml",
+  "number": "204752",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:40:34",
+  "involved_department": "普通小民",
+  "content": "大朗"
+}{
+  "title": "酒吧深夜噪音扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/397179.shtml",
+  "number": "204751",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:38:41",
+  "involved_department": "老虎乸",
+  "content": "石龙"
+}{
+  "title": "寮步镇丰泰物业乱收费",
+  "href": "http://wz.sun0769.com/html/question/201812/397177.shtml",
+  "number": "204750",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 11:38:10",
+  "involved_department": "非feifei",
+  "content": "寮步"
+}{
+  "title": "投诉高埗5路公交车末班车不靠站停车",
+  "href": "http://wz.sun0769.com/html/question/201812/397176.shtml",
+  "number": "204749",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:36:05",
+  "involved_department": "willv_",
+  "content": "高埗"
+}{
+  "title": "有人夜晚在万江水蛇涌（万江河）对面的市政府储备用地焚烧刺鼻物..",
+  "href": "http://wz.sun0769.com/html/question/201812/397174.shtml",
+  "number": "204748",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:33:08",
+  "involved_department": "明天会更好an",
+  "content": "市环保局"
+}{
+  "title": "手机店噪音扰民第二次投诉请管管",
+  "href": "http://wz.sun0769.com/html/question/201812/397172.shtml",
+  "number": "204747",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:28:54",
+  "involved_department": "hu2018",
+  "content": "东坑"
+}{
+  "title": "常年占道乱摆乱放无人管理",
+  "href": "http://wz.sun0769.com/html/question/201812/397171.shtml",
+  "number": "204746",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:27:40",
+  "involved_department": "刘邱东",
+  "content": "长安"
+}{
+  "title": "碧桂园十里江湾与万科珠江东岸七期之间很短的一段市政路无人修",
+  "href": "http://wz.sun0769.com/html/question/201812/397170.shtml",
+  "number": "204745",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:26:39",
+  "involved_department": "王子家的青蛙",
+  "content": "麻涌"
+}{
+  "title": "碧桂园铜雀台夜间噪音施工严重扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/397169.shtml",
+  "number": "204744",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 11:25:41",
+  "involved_department": "王子家的青蛙",
+  "content": "麻涌"
+}{
+  "title": "万科珠江东岸江边儿童游乐设施坏了长期无人修理，还有灯柱断了也..",
+  "href": "http://wz.sun0769.com/html/question/201812/397168.shtml",
+  "number": "204743",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 11:25:21",
+  "involved_department": "王子家的青蛙",
+  "content": "麻涌"
+}{
+  "title": "万科珠江东岸一期别墅前面和铜雀台前面需要划车位",
+  "href": "http://wz.sun0769.com/html/question/201812/397167.shtml",
+  "number": "204742",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 11:23:37",
+  "involved_department": "王子家的青蛙",
+  "content": "麻涌"
+}{
+  "title": "清溪公安局户政科（办理一个人才入户就这么难吗？）",
+  "href": "http://wz.sun0769.com/html/question/201812/397160.shtml",
+  "number": "204740",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:20:24",
+  "involved_department": "天道2046",
+  "content": "清溪"
+}{
+  "title": "大朗钜隆地产东逸湾花园开发商二期社区绿化虚假。",
+  "href": "http://wz.sun0769.com/html/question/201812/397158.shtml",
+  "number": "204739",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:18:41",
+  "involved_department": "大朗~松湖轩",
+  "content": "大朗"
+}{
+  "title": "塘厦镇宏业北十四路车辆乱停放问题",
+  "href": "http://wz.sun0769.com/html/question/201812/397157.shtml",
+  "number": "204738",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:17:32",
+  "involved_department": "mm1214",
+  "content": "塘厦"
+}{
+  "title": "幼儿园空气质量差",
+  "href": "http://wz.sun0769.com/html/question/201812/397156.shtml",
+  "number": "204737",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:14:02",
+  "involved_department": "单行线芳",
+  "content": "长安"
+}{
+  "title": "东莞市沙田恒大御景半岛房子",
+  "href": "http://wz.sun0769.com/html/question/201812/397153.shtml",
+  "number": "204735",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 11:13:00",
+  "involved_department": "左海泉",
+  "content": "沙田镇"
+}{
+  "title": "凤冲村沙场选址离居民住宅区太近噪音扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/397152.shtml",
+  "number": "204734",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:11:11",
+  "involved_department": "981913195",
+  "content": "中堂"
+}{
+  "title": "万江石美村球场（居委会对面球场）里的二条灯柱存在安全隐患",
+  "href": "http://wz.sun0769.com/html/question/201812/397149.shtml",
+  "number": "204732",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:05:03",
+  "involved_department": "弱势小市民",
+  "content": "万江"
+}{
+  "title": "东莞市东坑派出所合同诈骗立案不作为",
+  "href": "http://wz.sun0769.com/html/question/201812/397145.shtml",
+  "number": "204730",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 11:02:03",
+  "involved_department": "毅123",
+  "content": "东坑"
+}{
+  "title": "关于东坑嘉盈名苑逾期2年未交房事项",
+  "href": "http://wz.sun0769.com/html/question/201812/397144.shtml",
+  "number": "204729",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 10:59:28",
+  "involved_department": "刘玲芳",
+  "content": "东坑"
+}{
+  "title": "商铺卖伪劣产品，没有营业执照也可以开铺吗？？？",
+  "href": "http://wz.sun0769.com/html/question/201812/397139.shtml",
+  "number": "204727",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 10:54:44",
+  "involved_department": "金悦香树01",
+  "content": "市工商局"
+}{
+  "title": "关于污水管道施工引起的一系列问题",
+  "href": "http://wz.sun0769.com/html/question/201812/397138.shtml",
+  "number": "204726",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-20 10:53:38",
+  "involved_department": "wdk123",
+  "content": "企石"
+}{
+  "title": "东江大桥往市区方向第一处红绿灯的红灯坏掉了",
+  "href": "http://wz.sun0769.com/html/question/201812/397137.shtml",
+  "number": "204725",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 10:49:39",
+  "involved_department": "MR木同",
+  "content": "市交警支队"
+}{
+  "title": "东莞市常平镇蔚蓝城邦附近工厂晚上排污问题",
+  "href": "http://wz.sun0769.com/html/question/201812/396716.shtml",
+  "number": "204431",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:52:37",
+  "involved_department": "mingkit",
+  "content": "市环保局"
+}{
+  "title": "东城下桥农村里私自霸占街道做私人停车位，违法吗？合理吗？",
+  "href": "http://wz.sun0769.com/html/question/201812/396711.shtml",
+  "number": "204428",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:44:12",
+  "involved_department": "carl_qq",
+  "content": "市城管局"
+}{
+  "title": "茶山镇卢屋村原熊记大排档深夜11点建筑施工，噪音巨大，严重扰..",
+  "href": "http://wz.sun0769.com/html/question/201812/396710.shtml",
+  "number": "204427",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:42:16",
+  "involved_department": "blabla",
+  "content": "市城管局"
+}{
+  "title": "东莞生态园广东科技学院新校区夜间施工噪音严重扰民（上次处理后..",
+  "href": "http://wz.sun0769.com/html/question/201812/396708.shtml",
+  "number": "204425",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:41:00",
+  "involved_department": "dmilk",
+  "content": "市城管局"
+}{
+  "title": "宏业南7路餐厅油烟排放不合规",
+  "href": "http://wz.sun0769.com/html/question/201812/396707.shtml",
+  "number": "204424",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:40:27",
+  "involved_department": "qq侠",
+  "content": "市环保局"
+}{
+  "title": "宵夜档噪音极大，严重影响休息 ",
+  "href": "http://wz.sun0769.com/html/question/201812/396706.shtml",
+  "number": "204423",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:38:46",
+  "involved_department": "凡人无良",
+  "content": "市城管局"
+}{
+  "title": "所谓的高档小区国际公馆香榭里实在太差了！！！！",
+  "href": "http://wz.sun0769.com/html/question/201812/396705.shtml",
+  "number": "204422",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:37:57",
+  "involved_department": "杨嘉茵",
+  "content": "南城"
+}{
+  "title": "三次举报食品纸碟包装厂 无证生产 质量 环保问题 ",
+  "href": "http://wz.sun0769.com/html/question/201812/396701.shtml",
+  "number": "204421",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:33:49",
+  "involved_department": "ff7477",
+  "content": "市环保局"
+}{
+  "title": "长安上角综合管理区的长城宽带已经停了快2个月，反馈给长城宽带..",
+  "href": "http://wz.sun0769.com/html/question/201812/396693.shtml",
+  "number": "204417",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 17:40:42",
+  "involved_department": "夜无影",
+  "content": "市工商局"
+}{
+  "title": "866路公交未按要求发车",
+  "href": "http://wz.sun0769.com/html/question/201812/396692.shtml",
+  "number": "204415",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 17:38:14",
+  "involved_department": "227727",
+  "content": "凤岗"
+}{
+  "title": "噪音，油烟扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/396688.shtml",
+  "number": "204414",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 17:37:16",
+  "involved_department": "芳芳1984",
+  "content": "市城管局"
+}{
+  "title": "油漆气味大且存在安全隐患 ",
+  "href": "http://wz.sun0769.com/html/question/201812/396687.shtml",
+  "number": "204413",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 09:55:19",
+  "involved_department": "sl0816",
+  "content": "市环保局"
+}{
+  "title": "东莞市三和实业有限公司不给员工买住房公积金.",
+  "href": "http://wz.sun0769.com/html/question/201812/396686.shtml",
+  "number": "204412",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 19:02:38",
+  "involved_department": "中国心123",
+  "content": "市公积金中心"
+}{
+  "title": "举报投诉石排镇华驰高分子材料公司产生噪音污染",
+  "href": "http://wz.sun0769.com/html/question/201812/396681.shtml",
+  "number": "204411",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 19:01:33",
+  "involved_department": "阳光热线用户",
+  "content": "市环保局"
+}{
+  "title": "投诉厦岗社区开源路报废摩托车占用大量公共停车位的问题",
+  "href": "http://wz.sun0769.com/html/question/201812/396680.shtml",
+  "number": "204410",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 19:01:14",
+  "involved_department": "豆豆爱吃鱼",
+  "content": "长安"
+}{
+  "title": "门口道路因施工车辆长期碾压导致地基沉降不均匀引发房屋结构损伤",
+  "href": "http://wz.sun0769.com/html/question/201812/396678.shtml",
+  "number": "204408",
+  "hanle_state": "已回复",
+  "updata_time": "2018-12-15 18:04:12",
+  "involved_department": "kugoo66",
+  "content": "企石"
+}{
+  "title": "东莞塘厦盈峰广场小区停车乱收费",
+  "href": "http://wz.sun0769.com/html/question/201812/396677.shtml",
+  "number": "204407",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 18:03:36",
+  "involved_department": "thomas8",
+  "content": "市发改局"
+}{
+  "title": "关于早高峰东坑华仁步行街到茶亭村牌坊处主干道上乱停车",
+  "href": "http://wz.sun0769.com/html/question/201812/396674.shtml",
+  "number": "204406",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 17:57:04",
+  "involved_department": "shsfv",
+  "content": "市交警支队"
+}{
+  "title": "关于801的路线",
+  "href": "http://wz.sun0769.com/html/question/201812/396671.shtml",
+  "number": "204404",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 17:55:21",
+  "involved_department": "othmer",
+  "content": "市交通局"
+}{
+  "title": "(高埗镇)市政工程截污管道导致房屋爆裂,一直没有人处理!",
+  "href": "http://wz.sun0769.com/html/question/201812/396669.shtml",
+  "number": "204403",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 17:53:15",
+  "involved_department": "保护大家",
+  "content": "高埗"
+}{
+  "title": "大朗美景中路1201号废水排污处理需严重改进",
+  "href": "http://wz.sun0769.com/html/question/201812/396668.shtml",
+  "number": "204402",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 17:52:17",
+  "involved_department": "529000",
+  "content": "大朗"
+}{
+  "title": "韵达单号3102184522765运输时效太慢",
+  "href": "http://wz.sun0769.com/html/question/201812/396665.shtml",
+  "number": "204400",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 17:50:25",
+  "involved_department": "bellalj",
+  "content": "市邮政管理局"
+}{
+  "title": "严重投诉东坑中凯国际酒店自助西餐厅欺骗消费者",
+  "href": "http://wz.sun0769.com/html/question/201812/396660.shtml",
+  "number": "204397",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:44:16",
+  "involved_department": "sun0737168",
+  "content": "东坑"
+}{
+  "title": "关于寮步横坑村停车收费问题",
+  "href": "http://wz.sun0769.com/html/question/201812/396659.shtml",
+  "number": "204396",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:43:14",
+  "involved_department": "cyh1013",
+  "content": "市发改局"
+}{
+  "title": "私设地锁问题",
+  "href": "http://wz.sun0769.com/html/question/201812/396658.shtml",
+  "number": "204395",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:41:21",
+  "involved_department": "youjinzhou",
+  "content": "市城管局"
+}{
+  "title": "劳务派遣公司一直拖欠工资。",
+  "href": "http://wz.sun0769.com/html/question/201812/396655.shtml",
+  "number": "204393",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:40:58",
+  "involved_department": "qwsxkk",
+  "content": "市人力资源局"
+}{
+  "title": "村委会停我社保不给我个人缴交",
+  "href": "http://wz.sun0769.com/html/question/201812/396652.shtml",
+  "number": "204392",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:40:29",
+  "involved_department": "新16888",
+  "content": "市社保局"
+}{
+  "title": "同创市场的爱康美诺健康咨询公司诈骗老年人钱财",
+  "href": "http://wz.sun0769.com/html/question/201812/396651.shtml",
+  "number": "204391",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-15 15:37:39",
+  "involved_department": "114zyr",
+  "content": "东城"
+}{
+  "title": "天天焚烧垃圾",
+  "href": "http://wz.sun0769.com/html/question/201812/396646.shtml",
+  "number": "204390",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:35:08",
+  "involved_department": "wwehd",
+  "content": "南城"
+}{
+  "title": "投诉石碣文化广场闲置车位晚上和周末不给周边群众使用",
+  "href": "http://wz.sun0769.com/html/question/201812/396645.shtml",
+  "number": "204389",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-15 15:34:32",
+  "involved_department": "ygq001",
+  "content": "石碣"
+}{
+  "title": "小车乱停放",
+  "href": "http://wz.sun0769.com/html/question/201812/396794.shtml",
+  "number": "204481",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:21:37",
+  "involved_department": "One丶Can",
+  "content": "莞城"
+}{
+  "title": "凤观跨线铁路桥封路，车辆绕行天新街，天堂新街，天天大堵车.",
+  "href": "http://wz.sun0769.com/html/question/201812/396793.shtml",
+  "number": "204480",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:19:53",
+  "involved_department": "kunwen",
+  "content": "凤岗"
+}{
+  "title": "沙田海裕花园推广名沙田碧桂园狮子洋装修欺诈！",
+  "href": "http://wz.sun0769.com/html/question/201812/396792.shtml",
+  "number": "204479",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:18:55",
+  "involved_department": "香港搬砖人民",
+  "content": "沙田镇"
+}{
+  "title": "股权证",
+  "href": "http://wz.sun0769.com/html/question/201812/396790.shtml",
+  "number": "204477",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:16:51",
+  "involved_department": "投诉无门2",
+  "content": "市农业局"
+}{
+  "title": "对面的餐厅每天高音喇叭声音扰民休息",
+  "href": "http://wz.sun0769.com/html/question/201812/396787.shtml",
+  "number": "204476",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:14:43",
+  "involved_department": "收废品",
+  "content": "清溪"
+}{
+  "title": "大岭山关于建房子的问题，一直存在问题，投诉几次，都没有实行",
+  "href": "http://wz.sun0769.com/html/question/201812/396786.shtml",
+  "number": "204475",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:13:42",
+  "involved_department": "xfhhj",
+  "content": "大岭山"
+}{
+  "title": "东莞樟木头南城公园（花园酒店旁），过道少一个路灯，造成有一路..",
+  "href": "http://wz.sun0769.com/html/question/201812/396776.shtml",
+  "number": "204471",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:04:21",
+  "involved_department": "vincentdeer",
+  "content": "樟木头"
+}{
+  "title": "凤岗镇永江花园幼儿园利用上课时间开办兴趣班",
+  "href": "http://wz.sun0769.com/html/question/201812/396772.shtml",
+  "number": "204470",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:02:48",
+  "involved_department": "cxs811",
+  "content": "凤岗"
+}{
+  "title": "樟木头汇景中心公寓开盘时收取团购费出示不了发票",
+  "href": "http://wz.sun0769.com/html/question/201812/396771.shtml",
+  "number": "204469",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-17 10:01:06",
+  "involved_department": "a会飞的鱼",
+  "content": "樟木头"
+}{
+  "title": "餐馆允许把狗也带进去吗？尤其是国际品牌餐厅 KFC",
+  "href": "http://wz.sun0769.com/html/question/201812/396766.shtml",
+  "number": "204465",
+  "hanle_state": "已回复",
+  "updata_time": "2018-12-16 19:37:23",
+  "involved_department": "bill5678",
+  "content": "厚街"
+}{
+  "title": "中堂镇三涌村无良工程致无家可归！奸商借市政工程名义无视赔偿！",
+  "href": "http://wz.sun0769.com/html/question/201812/396764.shtml",
+  "number": "204462",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:34:05",
+  "involved_department": "大卫wen",
+  "content": "中堂"
+}{
+  "title": "污水横流",
+  "href": "http://wz.sun0769.com/html/question/201812/396763.shtml",
+  "number": "204461",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:32:42",
+  "involved_department": "能处理就好",
+  "content": "常平"
+}{
+  "title": "长安镇夏边村宏光厂拖欠90多员工农民工费用不及时处理",
+  "href": "http://wz.sun0769.com/html/question/201812/396758.shtml",
+  "number": "204458",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:31:24",
+  "involved_department": "宏光厂",
+  "content": "市人力资源局"
+}{
+  "title": "虎门镇新联社区居民房屋建设问题",
+  "href": "http://wz.sun0769.com/html/question/201812/396755.shtml",
+  "number": "204455",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:25:18",
+  "involved_department": "番薯佬",
+  "content": "市城管局"
+}{
+  "title": "投诉东城温塘磡下新村村屋违章加建",
+  "href": "http://wz.sun0769.com/html/question/201812/396752.shtml",
+  "number": "204453",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:24:01",
+  "involved_department": "liaobu135",
+  "content": "市城管局"
+}{
+  "title": "无牌洗车店扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/396749.shtml",
+  "number": "204450",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:22:37",
+  "involved_department": "hanqf",
+  "content": "市环保局"
+}{
+  "title": "含甲苯天那水废气随意排放",
+  "href": "http://wz.sun0769.com/html/question/201812/396748.shtml",
+  "number": "204449",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:21:48",
+  "involved_department": "废气随意排放",
+  "content": "市环保局"
+}{
+  "title": "沙田镇消防安全隐患整治办公室胡乱执法，乱剪住户电线，严重影响..",
+  "href": "http://wz.sun0769.com/html/question/201812/396745.shtml",
+  "number": "204448",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:18:28",
+  "involved_department": "czj7123",
+  "content": "市消防局"
+}{
+  "title": "关于东莞公交801路线",
+  "href": "http://wz.sun0769.com/html/question/201812/396744.shtml",
+  "number": "204447",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:17:55",
+  "involved_department": "othmer",
+  "content": "市交通局"
+}{
+  "title": "南城众利路新建楼盘半夜施工制造噪音",
+  "href": "http://wz.sun0769.com/html/question/201812/396743.shtml",
+  "number": "204446",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:17:41",
+  "involved_department": "lqd121",
+  "content": "市城管局"
+}{
+  "title": "大货车乱停乱放阻挡村道",
+  "href": "http://wz.sun0769.com/html/question/201812/396740.shtml",
+  "number": "204445",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:14:37",
+  "involved_department": "深水步惊云",
+  "content": "市交警支队"
+}{
+  "title": "噪音及油污污染为何屡次投诉无门？",
+  "href": "http://wz.sun0769.com/html/question/201812/396738.shtml",
+  "number": "204443",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:10:57",
+  "involved_department": "东莞好阳光",
+  "content": "市环保局"
+}{
+  "title": "车钱包油卡充值",
+  "href": "http://wz.sun0769.com/html/question/201812/396737.shtml",
+  "number": "204442",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:10:36",
+  "involved_department": "墲法显示",
+  "content": "市工商局"
+}{
+  "title": "东莞通虚拟卡刁难服务！",
+  "href": "http://wz.sun0769.com/html/question/201812/396734.shtml",
+  "number": "204441",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:07:45",
+  "involved_department": "补考的小格子",
+  "content": "市交投集团"
+}{
+  "title": "梨川社区卫生站医生不接受患者转诊诉求",
+  "href": "http://wz.sun0769.com/html/question/201812/396733.shtml",
+  "number": "204440",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:05:51",
+  "involved_department": "丸子酱",
+  "content": "东城"
+}{
+  "title": "交警执法不严肃，导致本人无法缴费",
+  "href": "http://wz.sun0769.com/html/question/201812/396731.shtml",
+  "number": "204438",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 19:02:17",
+  "involved_department": "阳光网友_2y",
+  "content": "市交警支队"
+}{
+  "title": "虎门镇威远岛城建办公区宿舍后一栋9层高违建厂房每日早上7点开..",
+  "href": "http://wz.sun0769.com/html/question/201812/396721.shtml",
+  "number": "204435",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:58:11",
+  "involved_department": "安静何时到来？",
+  "content": "虎门"
+}{
+  "title": "(持续投诉-第三年)沙田镇福禄沙工业区的工厂经常半夜偷排恶臭..",
+  "href": "http://wz.sun0769.com/html/question/201812/396719.shtml",
+  "number": "204434",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:55:21",
+  "involved_department": "ipiger",
+  "content": "市环保局"
+}{
+  "title": "大岭山镇金地格林上院对面柴洗酒店风机噪音深夜扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/396718.shtml",
+  "number": "204433",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:54:56",
+  "involved_department": "lin2019",
+  "content": "市城管局"
+}{
+  "title": "第三次投诉八达路铭可达商住中心停车场出入关卡响声太大，影响周..",
+  "href": "http://wz.sun0769.com/html/question/201812/396717.shtml",
+  "number": "204432",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-16 18:53:36",
+  "involved_department": "hq1234",
+  "content": "莞城"
+}{
+  "title": "中国电信东莞电信分公司",
+  "href": "http://wz.sun0769.com/html/question/201812/397133.shtml",
+  "number": "204723",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-20 10:46:01",
+  "involved_department": "懒羊羊_gy",
+  "content": "东莞电信"
+}{
+  "title": "小区内单元楼房违法加建楼层",
+  "href": "http://wz.sun0769.com/html/question/201812/397125.shtml",
+  "number": "204718",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 17:25:07",
+  "involved_department": "丽欣小业主",
+  "content": "市城管局"
+}{
+  "title": "钜隆房产居然在东莞大朗东逸湾二期商铺的大理石地面铺土准备种草..",
+  "href": "http://wz.sun0769.com/html/question/201812/397124.shtml",
+  "number": "204717",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 17:22:42",
+  "involved_department": "大朗东逸湾二期",
+  "content": "市城乡规划局"
+}{
+  "title": "东莞长城宽带未经屋主同意私自在外墙上挂网络机箱，投诉无果",
+  "href": "http://wz.sun0769.com/html/question/201812/397123.shtml",
+  "number": "204716",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 16:48:30",
+  "involved_department": "dpfoo",
+  "content": "市工商局"
+}{
+  "title": "赌博场所",
+  "href": "http://wz.sun0769.com/html/question/201812/397122.shtml",
+  "number": "204715",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 16:47:43",
+  "involved_department": "wxh7911",
+  "content": "常平"
+}{
+  "title": "东逸湾售楼处和碧桂园天汇之间道路破损",
+  "href": "http://wz.sun0769.com/html/question/201812/397117.shtml",
+  "number": "204711",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 16:26:55",
+  "involved_department": "远山远",
+  "content": "大朗"
+}{
+  "title": "东莞市塘厦镇清湖头村清湖路336号宝芝林药店非法看病，塘厦计..",
+  "href": "http://wz.sun0769.com/html/question/201812/397116.shtml",
+  "number": "204710",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 16:26:28",
+  "involved_department": "刘大理666",
+  "content": "市卫生计生局"
+}{
+  "title": "花园新村56栋4000余户过户问题！",
+  "href": "http://wz.sun0769.com/html/question/201812/397109.shtml",
+  "number": "204705",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 16:15:15",
+  "involved_department": "逆水行周",
+  "content": "市房管局"
+}{
+  "title": "投诉乱作为",
+  "href": "http://wz.sun0769.com/html/question/201812/397108.shtml",
+  "number": "204704",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 16:14:10",
+  "involved_department": "蓝天白云520",
+  "content": "莞城"
+}{
+  "title": "投诉广东德诚科教有限公司东莞分公司关于“退费”的霸王条款",
+  "href": "http://wz.sun0769.com/html/question/201812/397107.shtml",
+  "number": "204703",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 16:12:58",
+  "involved_department": "h5721629",
+  "content": "市工商局"
+}{
+  "title": "公交路线",
+  "href": "http://wz.sun0769.com/html/question/201812/397106.shtml",
+  "number": "204702",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 16:06:34",
+  "involved_department": "李化群",
+  "content": "市交通局"
+}{
+  "title": "虎门僵尸车停了几年无人理，其它车又没地方停",
+  "href": "http://wz.sun0769.com/html/question/201812/397105.shtml",
+  "number": "204701",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 16:04:36",
+  "involved_department": "东莞开拓者",
+  "content": "虎门"
+}{
+  "title": "虎门金洲北坊综治办乱锁车乱收费不给票据",
+  "href": "http://wz.sun0769.com/html/question/201812/397101.shtml",
+  "number": "204698",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:58:44",
+  "involved_department": "东莞开拓者",
+  "content": "虎门"
+}{
+  "title": "含有煤气的煤气罐走进住宅区",
+  "href": "http://wz.sun0769.com/html/question/201812/397100.shtml",
+  "number": "204697",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:57:20",
+  "involved_department": "美好的生活日子",
+  "content": "寮步"
+}{
+  "title": "投诉石龙镇龙城国际小区招商中心损害消费者合法权益",
+  "href": "http://wz.sun0769.com/html/question/201812/397077.shtml",
+  "number": "204696",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:55:25",
+  "involved_department": "东莞客乡人",
+  "content": "市工商局"
+}{
+  "title": "大迳路行人道维修",
+  "href": "http://wz.sun0769.com/html/question/201812/397095.shtml",
+  "number": "204693",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:48:56",
+  "involved_department": "山岗村庄热泪",
+  "content": "塘厦"
+}{
+  "title": "松湖碧桂园二期房屋天花渗水，墙体空鼓，洗手间渗水墙体掉灰，小..",
+  "href": "http://wz.sun0769.com/html/question/201812/397094.shtml",
+  "number": "204692",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:48:15",
+  "involved_department": "huyaya",
+  "content": "市住建局"
+}{
+  "title": "清溪镇铁松路边乱停乱放",
+  "href": "http://wz.sun0769.com/html/question/201812/397088.shtml",
+  "number": "204689",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:44:01",
+  "involved_department": "jab",
+  "content": "清溪"
+}{
+  "title": "松湖碧桂园商铺过道突变草坪，荒诞至极",
+  "href": "http://wz.sun0769.com/html/question/201812/397086.shtml",
+  "number": "204688",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:42:07",
+  "involved_department": "bob168328",
+  "content": "大岭山"
+}{
+  "title": "樟木头23路过站不停，雅翠花园站点不合理",
+  "href": "http://wz.sun0769.com/html/question/201812/397083.shtml",
+  "number": "204687",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:38:42",
+  "involved_department": "莞天下",
+  "content": "樟木头"
+}{
+  "title": "大朗镇翡翠松山湖生活垃圾无人清运",
+  "href": "http://wz.sun0769.com/html/question/201812/397082.shtml",
+  "number": "204686",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:35:33",
+  "involved_department": "12356-",
+  "content": "大朗"
+}{
+  "title": "中惠松湖城退房办理，拒不退款。",
+  "href": "http://wz.sun0769.com/html/question/201812/397080.shtml",
+  "number": "204685",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:34:14",
+  "involved_department": "dylanpb",
+  "content": "市住建局"
+}{
+  "title": "公交车司机态度",
+  "href": "http://wz.sun0769.com/html/question/201812/397052.shtml",
+  "number": "204679",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:21:00",
+  "involved_department": "小丹杨",
+  "content": "大朗"
+}{
+  "title": "大岭山松湖碧桂园2期实际交付标准不符",
+  "href": "http://wz.sun0769.com/html/question/201812/397072.shtml",
+  "number": "204678",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:19:57",
+  "involved_department": "fantao",
+  "content": "大岭山"
+}{
+  "title": "东莞长安镇黑出租猖獗",
+  "href": "http://wz.sun0769.com/html/question/201812/397068.shtml",
+  "number": "204676",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:17:58",
+  "involved_department": "口十叶",
+  "content": "长安"
+}{
+  "title": "中国电信的信号极差",
+  "href": "http://wz.sun0769.com/html/question/201812/397066.shtml",
+  "number": "204674",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:15:49",
+  "involved_department": "尹氏家族",
+  "content": "东莞电信"
+}{
+  "title": "劳动监察大队",
+  "href": "http://wz.sun0769.com/html/question/201812/397064.shtml",
+  "number": "204672",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:15:10",
+  "involved_department": "淡淡如初",
+  "content": "寮步"
+}{
+  "title": "虎门高铁站停车场出入口设计严重不合理",
+  "href": "http://wz.sun0769.com/html/question/201812/397063.shtml",
+  "number": "204671",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:14:08",
+  "involved_department": "failo",
+  "content": "虎门"
+}{
+  "title": "关于林村金地千百汇开发商无权无证私卖人防车位",
+  "href": "http://wz.sun0769.com/html/question/201812/397062.shtml",
+  "number": "204670",
+  "hanle_state": "待处理",
+  "updata_time": "2018-12-19 15:13:27",
+  "involved_department": "站着，等风来",
+  "content": "塘厦"
+}{
+  "title": "虎门万达广场夜间扰民",
+  "href": "http://wz.sun0769.com/html/question/201812/397058.shtml",
+  "number": "204669",
+  "hanle_state": "已受理",
+  "updata_time": "2018-12-19 15:12:30",
+  "involved_department": "mzgl123",
+  "content": "虎门"
+}

@@ -2,8 +2,8 @@
 import scrapy
 
 
-class ItcastSpider(scrapy.Spider):
-    name = 'itcast'
+class TeacherSpider(scrapy.Spider):
+    name = 'teacher'
     allowed_domains = ['itcast.cn']
     start_urls = ['http://www.itcast.cn/channel/teacher.shtml#ajavaee']
 
@@ -19,5 +19,6 @@ class ItcastSpider(scrapy.Spider):
                 profile=profile
             )
             yield item
+
 
 
